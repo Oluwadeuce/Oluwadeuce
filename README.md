@@ -4,7 +4,7 @@ I am a Backend Developer focused on building clean, reliable APIs with Go (Golan
 
 I care about structure and every system I build is organized into clear layers, handles errors deliberately, and is written to be maintained, not just to work.
 
-
+------
 
 **Tech Stack**
 
@@ -14,7 +14,7 @@ Rest API
 Git
 Basic HTML, CSS and JavaScript
 
-
+-------
 
 **Featured Projects
 **
@@ -35,7 +35,7 @@ Tetris Game - A classic Tetris game built with vanilla JavaScript. Playable in t
 https://github.com/Oluwadeuce/tetris
 
 
-
+--------
 
 **Let's Connect**
 
