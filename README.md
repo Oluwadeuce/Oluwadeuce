@@ -6,7 +6,7 @@ I care about structure and every system I build is organized into clear layers, 
 
 
 
-Tech Stack
+**Tech Stack**
 
 Go
 Gin
@@ -16,8 +16,8 @@ Basic HTML, CSS and JavaScript
 
 
 
-Featured Projects
-
+**Featured Projects
+**
 Go User Management API - A RESTful API built with Go and Gin framework for managing users.  
 This project features CRUD operations, REST principles, and database integration using SQLite and GORM.
 https://github.com/Oluwadeuce/gin-user-api
@@ -37,7 +37,7 @@ https://github.com/Oluwadeuce/tetris
 
 
 
-Let's Connect
+**Let's Connect**
 
 Email: hannysurgie@gmail.com
 
