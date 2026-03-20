@@ -2,17 +2,17 @@
 
 **Backend Developer** focused on building clean, reliable APIs with Golang.
 
-I care about structure — every system I build is organized into clear layers, handles errors deliberately, and is written to be maintained, not just to work.
+I care about structure. Every system I build is organized into clear layers, handles errors deliberately, and is written to be maintained, not just to work.
 
 ---
 
 ## Tech Stack
 
-![Go]
-![Gin]
-![REST API]
-![Git]
-![Basic HTML, CSS and JavaScript]
+- [Go]
+- [Gin]
+- [REST API]
+- [Git]
+- [Basic HTML, CSS and JavaScript]
 
 ---
 
@@ -29,11 +29,12 @@ A REST API built using Go and Gin with routing, middleware, and basic authentica
 A RESTful task management API built with Go + Gin.
 Features full CRUD operations, layered architecture (handlers/routes/models/storage), mutex-safe concurrency, and structured JSON responses.
 
+### [Tetris](https://github.com/Oluwadeuce/tetris)
+Classic Tetris game built in JavaScript — exploring frontend logic and game state management.
+
 ### [Todo List App](https://github.com/Oluwadeuce/Todo-List)
 A Go-based todo application demonstrating clean project structure and backend logic.
 
-### [Tetris](https://github.com/Oluwadeuce/tetris)
-Classic Tetris game built in JavaScript — exploring frontend logic and game state management.
 
 ---
 
