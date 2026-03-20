@@ -18,6 +18,8 @@ Basic HTML, CSS and JavaScript
 
 **Featured Projects
 **
+
+-----
 Go User Management API - A RESTful API built with Go and Gin framework for managing users.  
 This project features CRUD operations, REST principles, and database integration using SQLite and GORM.
 https://github.com/Oluwadeuce/gin-user-api
