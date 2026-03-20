@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Hannah.
 
-<!--
-**Oluwadeuce/Oluwadeuce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Backend Developer focused on building clean, reliable APIs with Go (Golang)
 
-Here are some ideas to get you started:
+I care about structure and every system I build is organized into clear layers, handles errors deliberately, and is written to be maintained, not just to work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Tech Stack
+
+Go
+Gin
+Rest API
+Git
+Basic HTML, CSS and JavaScript
+
+
+
+Featured Projects
+
+Go User Management API - A RESTful API built with Go and Gin framework for managing users.  
+This project features CRUD operations, REST principles, and database integration using SQLite and GORM.
+https://github.com/Oluwadeuce/gin-user-api
+
+
+Task Manager API – A RESTful task management API built with Go and Gin framework. This project was designed with a clean layered architecture for maintainability and clarity.
+https://github.com/Oluwadeuce/Task-manager
+
+
+Authenticator - This is a REST API built using Go and Gin with routing, middleware, and basic authentication handling.
+https://github.com/Oluwadeuce/authenticator
+
+
+Tetris Game - A classic Tetris game built with vanilla JavaScript. Playable in the browser with no dependencies
+https://github.com/Oluwadeuce/tetris
+
+
+
+
+Let's Connect
+
+Email: hannysurgie@gmail.com
+LinkedIn: linkedin.com/in/hannah-bamgbelu
